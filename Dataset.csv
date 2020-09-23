@@ -1,0 +1,585 @@
+search about,intent.google_search
+please search about,intent.google_search
+could you please tell me about,intent.google_search
+i want to know ,intent.google_search
+please search,intent.google_search
+search,intent.google_search
+tell me about,intent.google_search
+tell me ,intent.google_search
+what is ,intent.google_search
+please look up,intent.google_search
+please look ,intent.google_search
+look for,intent.google_search
+look about,intent.google_search
+research on,intent.google_search
+research about,intent.google_search
+explore on,intent.google_search
+i want to know ,intent.google_search
+give me some knowledge on,intent.google_search
+tell me facts about,intent.google_search
+give me some facts on,intent.google_search
+give me some information,intent.google_search
+provide me some information on,intent.google_search
+interesting facts on,intent.google_search
+what do you know about,intent.google_search
+what do you think about,intent.google_search
+google this,intent.google_search
+google facts on,intent.google_search
+google search ,intent.google_search
+googling,intent.google_search
+can you google something on this,intent.google_search
+i want to make a search query,intent.google_search
+i want to make google query,intent.google_search
+i want to know facts about this,intent.google_search
+grant me some information on this,intent.google_search
+is it hot or cold,intent.weather
+is it sunny,intent.weather
+is it raining,intent.weather
+what's the weather forecast,intent.weather
+what's the weather expected to be tomorrow,intent.weather
+what's the temperature,intent.weather
+how's the weather,intent.weather
+what’s it like outside,intent.weather
+is it humid?,intent.weather
+is it hot       ,intent.weather
+it is cold,intent.weather
+is it winter,intent.weather
+is it spring,intent.weather
+what is the temperature,intent.weather
+what is the degree outside,intent.weather
+how hot is it,intent.weather
+how cold is it,intent.weather
+cloudy weather,intent.weather
+lighning outside,intent.weather
+thunderstorms outside,intent.weather
+hailing ouside,intent.weather
+hail storm,intent.weather
+snowfall,intent.weather
+snowy weather,intent.weather
+heavy snow ,intent.weather
+dusky weather,intent.weather
+cyclone in,intent.weather
+weather in,intent.weather
+temperature at,intent.weather
+amount of rainfall,intent.weather
+show me the route for..,intent.route_information
+how can i reach..,intent.route_information
+i want to reach..,intent.route_information
+i want to go to,intent.route_information
+show me the way to,intent.route_information
+how can i go to ,intent.route_information
+put on the map for ,intent.route_information
+show me map for,intent.route_information
+show me site on map,intent.route_information
+show me the whereabouts of,intent.route_information
+show me the map,intent.route_information
+show me the location on map,intent.route_information
+how do i get to,intent.route_information
+where’s the nearest,intent.route_information
+near me,intent.route_information
+around me,intent.route_information
+could you tell me the best way to get to ,intent.route_information
+where exactly am i,intent.route_information
+where am i,intent.route_information
+where i am,intent.route_information
+what is the quickest way to get to ,intent.route_information
+what is the shortest way to get to  ,intent.route_information
+what is the longest way to get to ,intent.route_information
+where is  ,intent.route_information
+tell me the directions to ,intent.route_information
+how do i get to ,intent.route_information
+can you tell me the best way of getting to,intent.route_information
+how do i go to,intent.route_information
+how do i reach,intent.route_information
+could you direct me to ,intent.route_information
+which way do i go to get to,intent.route_information
+could you tell me how to get to ,intent.route_information
+where is the,intent.route_information
+which is the best way to,intent.route_information
+i would like to go to ,intent.route_information
+can you show me which way to go using the map,intent.route_information
+could you please guide me to,intent.route_information
+what direction should i take for,intent.route_information
+which way leads to,intent.route_information
+navigate to,intent.route_information
+could you please navigate me to,intent.route_information
+manage brightness,intent.brightness
+could you please change the brightness,intent.brightness
+dim the brightness,intent.brightness
+increase the brightness,intent.brightness
+control the brightness,intent.brightness
+decrease the brightness,intent.brightness
+maximize the brightness,intent.brightness
+cut down the brightness,intent.brightness
+its too bright. decrease it,intent.brightness
+make it less bright,intent.brightness
+make it brighter,intent.brightness
+make it a little darker,intent.brightness
+make it a little more bright,intent.brightness
+please increase the brightness,intent.brightness
+could you please make it a little brighter,intent.brightness
+i want it a bit brighter,intent.brightness
+i want it a bit darker,intent.brightness
+maximize the brightness,intent.brightness
+max out the brightness,intent.brightness
+i want to control the brightness,intent.brightness
+can you please increase the brightness for me,intent.brightness
+increase the brighness,intent.brightness
+decrease the brightness,intent.brightness
+low brightness,intent.brightness
+high brightness,intent.brightness
+set brightness level,intent.brightness
+control brightness,intent.brightness
+change the levels for brightness,intent.brightness
+dim the brightness,intent.brightness
+change the brightness levels,intent.brightness
+please make it less bright,intent.brightness
+reduce the brightness,intent.brightness
+increase the brightness level to maximum,intent.brightness
+put the brightness level to highest,intent.brightness
+youtube,intent.youtube
+can you youtube,intent.youtube
+show me on youtube,intent.youtube
+lookup on youtube,intent.youtube
+search on youtube,intent.youtube
+show me search results on youtube,intent.youtube
+youtube on,intent.youtube
+fetch results from youtube,intent.youtube
+get some results from youtube,intent.youtube
+research on youtube,intent.youtube
+tell me all you have from youtube,intent.youtube
+could you get these results from youtube,intent.youtube
+please show me what you have on youtube for this,intent.youtube
+lets search on youtube about ,intent.youtube
+lets see what youtube has on this,intent.youtube
+please get me informatve videos from youtube on this,intent.youtube
+"hey, i want to know what youtuibe has on this",intent.youtube
+please youtube this for me,intent.youtube
+i want to see videos related to this on youtube,intent.youtube
+please show me the results from youtube on ,intent.youtube
+i order you to tell me whatever you got from youtube about ,intent.youtube
+show me a video on,intent.youtube
+show me the releveant videos on youtube,intent.youtube
+search it up on youtube,intent.youtube
+get from youtube,intent.youtube
+fetch this from youtube,intent.youtube
+please get this from youtube,intent.youtube
+please fetch this from youtube,intent.youtube
+does youtube know anything about ,intent.youtube
+what does youtube know about ,intent.youtube
+lets look it up on youtube,intent.youtube
+just let me know everything you have on this from youtube,intent.youtube
+lets get this from youtube,intent.youtube
+come on show me what you got on this from youtube,intent.youtube
+i want to see a video showing me information on,intent.youtube
+please enlighten me about this from youtube,intent.youtube
+show me results after fetching information from youtube,intent.youtube
+play on youtube,intent.youtube
+listen on youtube,intent.youtube
+i want to see this on youtube,intent.youtube
+all about this from youtube,intent.youtube
+please change the wallpaper,intent.wallpaper
+change wallpaper,intent.wallpaper
+replace wallpaper,intent.wallpaper
+new wallpaper,intent.wallpaper
+change background ,intent.wallpaper
+new background,intent.wallpaper
+replace background,intent.wallpaper
+set new background,intent.wallpaper
+set new wallpaper,intent.wallpaper
+set new main screen background,intent.wallpaper
+change screen background,intent.wallpaper
+change screen wallpaper,intent.wallpaper
+change background image,intent.wallpaper
+i want a new background,intent.wallpaper
+i want a new wallpaper,intent.wallpaper
+can you please set a new background ,intent.wallpaper
+set wallpaper ,intent.wallpaper
+create a new wallpaper,intent.wallpaper
+lets have a new sceen background image,intent.wallpaper
+set the wallpaper to the best possible image of,intent.wallpaper
+i want a new wallpaper that has on it,intent.wallpaper
+get me a new wallpaper related to,intent.wallpaper
+a new wallpaper on this would look nice on my screen,intent.wallpaper
+a new wallpaper on this would look good on my screen,intent.wallpaper
+a new wallpaper on this would look great on my screen,intent.wallpaper
+could you please set a bew wallpaper on this for me.,intent.wallpaper
+a new wallpaper on this would look on my screen,intent.wallpaper
+change the current wallpaper to a new background of,intent.wallpaper
+a new background of this for my desktop will be nice,intent.wallpaper
+set a background of desktop to ,intent.wallpaper
+change the background image to,intent.wallpaper
+can you change the current background image to ,intent.wallpaper
+can you please change the cuurent background to,intent.wallpaper
+could you please set a new desktop background for me,intent.wallpaper
+refresh my wallpaper with a new background of ,intent.wallpaper
+lets get a new background for desktop,intent.wallpaper
+i would like to have a new background image of ,intent.wallpaper
+set the wallpaper to ,intent.wallpaper
+replace the current wallpaper with ,intent.wallpaper
+set the desktop background as ,intent.wallpaper
+please set the desktop background image as,intent.wallpaper
+what is the date ,intent.datetime
+whats the date,intent.datetime
+what is the time,intent.datetime
+whats the time,intent.datetime
+get me the current time,intent.datetime
+what time is it ,intent.datetime
+what date is it,intent.datetime
+what time it is,intent.datetime
+what date it is,intent.datetime
+i would like to know the time,intent.datetime
+i would like to know the date,intent.datetime
+please tell me the date,intent.datetime
+please tell me the time,intent.datetime
+tell me the date and time,intent.datetime
+what date and time is it,intent.datetime
+what is the date today,intent.datetime
+what is the time right now,intent.datetime
+what is the time now,intent.datetime
+whats the time now,intent.datetime
+whats the time right now,intent.datetime
+show me the current time,intent.datetime
+show me today's date,intent.datetime
+look for today's date,intent.datetime
+which month is it,intent.datetime
+which month it is,intent.datetime
+which year is it,intent.datetime
+which year it is,intent.datetime
+get me the date time information for me,intent.datetime
+what does the clock say,intent.datetime
+what time does the clock show ,intent.datetime
+what is the time in your clock,intent.datetime
+what does your watch tell,intent.datetime
+what does your clock tell,intent.datetime
+show me time from the clock,intent.datetime
+show me the time from the watch,intent.datetime
+what is the date today and the current time,intent.datetime
+date and time,intent.datetime
+fetch date and time for me,intent.datetime
+get me the time that clock shows right now,intent.datetime
+where am i?,intent.location
+what is this place,intent.location
+get the location for this place,intent.location
+get a name for this place,intent.location
+name this place,intent.location
+tell me where am i,intent.location
+please tell me where am i,intent.location
+where i am,intent.location
+please tell me where i am,intent.location
+do you know the name for this place,intent.location
+do you know the name of this place,intent.location
+what is this place called,intent.location
+what is this place named,intent.location
+tell me where are we,intent.location
+please tell me where we are,intent.location
+i want to know where i am,intent.location
+i want to know where am i,intent.location
+find me,intent.location
+find the name of the place where i am currently,intent.location
+get the location of this place,intent.location
+i am at?,intent.location
+what is this place,intent.location
+where is this place,intent.location
+where are we located ,intent.location
+i want a name for this place,intent.location
+and this place is,intent.location
+location of this places says what name,intent.location
+what is this place coined as,intent.location
+get my coordinates and tell me where i am,intent.location
+get my coordinates and tell me where am i,intent.location
+you gotta tell me where am i,intent.location
+show me where am i,intent.location
+tell me a joke,intent.jokes
+please tell me a joke,intent.jokes
+get a joke for me,intent.jokes
+are you funny? ,intent.jokes
+tell me a funny joke,intent.jokes
+do you know any funny joke,intent.jokes
+make me laugh,intent.jokes
+can you make me laugh,intent.jokes
+do you know anything funny,intent.jokes
+any idea about humour,intent.jokes
+humorous jokes,intent.jokes
+i want to listen to a joke,intent.jokes
+i want to hear a joke,intent.jokes
+i want to hear something real funny,intent.jokes
+i want to laught out loud,intent.jokes
+can you make me laugh,intent.jokes
+can you make me smile,intent.jokes
+can you put a smile on my face,intent.jokes
+can you get me laughing,intent.jokes
+make me roll out on floor laughing,intent.jokes
+a funny joke please,intent.jokes
+a joke please,intent.jokes
+try out telling me a joke,intent.jokes
+do you now how to make me laugh,intent.jokes
+do you know how to make me smile,intent.jokes
+tell me a joke from your bag of jokes,intent.jokes
+what do you think a funny joke sounds like,intent.jokes
+what is a joke,intent.jokes
+i want to hear a funny one,intent.jokes
+tell me something super funny,intent.jokes
+pour some jokes on me,intent.jokes
+rain jokes on me,intent.jokes
+show me how funny are you,intent.jokes
+show me how funny you are,intent.jokes
+get your funny sense and tell me a joke,intent.jokes
+recite me a joke,intent.jokes
+recite me a funny joke,intent.jokes
+do you have a joke in your system,intent.jokes
+are you humourous,intent.jokes
+i'd like to hear a funny joke,intent.jokes
+i'd like to hear a joke,intent.jokes
+launch this application,intent.launchApplication
+open it,intent.launchApplication
+please open ,intent.launchApplication
+please launch,intent.launchApplication
+"i want to work on it, please launch it",intent.launchApplication
+"i want to work on it, please open it",intent.launchApplication
+get this application for me,intent.launchApplication
+i would like to work on this application,intent.launchApplication
+i want to use this application,intent.launchApplication
+i want to use it,intent.launchApplication
+get this application working,intent.launchApplication
+i'd like to work on this application,intent.launchApplication
+get app for me,intent.launchApplication
+get it for me,intent.launchApplication
+launch it for me,intent.launchApplication
+launch app for me,intent.launchApplication
+lets work on app,intent.launchApplication
+lets work on it,intent.launchApplication
+let get it working,intent.launchApplication
+make this app work,intent.launchApplication
+could you open this app for me,intent.launchApplication
+would you please launch this application,intent.launchApplication
+can you open application with me,intent.launchApplication
+could you get this application for me,intent.launchApplication
+"hey, open it for me",intent.launchApplication
+"hey, get it for me",intent.launchApplication
+show me some headlines for the day,intent.news
+show me the latest news on,intent.news
+what is the latest news on,intent.news
+get me some latest news on,intent.news
+get me some news on,intent.news
+show me some news on,intent.news
+what is the news on,intent.news
+show me the most relevant news on,intent.news
+get me the most relevant news on ,intent.news
+what is the news on,intent.news
+speak out the news to me,intent.news
+tell me the news on,intent.news
+tell me the latest news on,intent.news
+tell me the most relevant news on,intent.news
+i want to listen to news,intent.news
+get me news,intent.news
+run some headlines by me,intent.news
+update me with the news,intent.news
+whats happening in the world,intent.news
+news please,intent.news
+news update,intent.news
+please get me some news,intent.news
+please get some news for me,intent.news
+could you let me have some news,intent.news
+could you please let me have some news for today,intent.news
+could you please tell me some news on,intent.news
+would you let me know some news please,intent.news
+most hot news these days,intent.news
+hot news coming up these days,intent.news
+i want some news bro,intent.news
+read out the headlines for me,intent.news
+read out the news for me,intent.news
+read out the latest hot news for me,intent.news
+what news are around on,intent.news
+read out loud some news for me,intent.news
+some news,intent.news
+positive news these days,intent.news
+update me with some headlines,intent.news
+do you now latest news ,intent.news
+feed me with the latest news,intent.news
+feed me with headlines,intent.news
+feed me latest news,intent.news
+play song,intent.music
+play this song for me,intent.music
+play song on spotify,intent.music
+play music,intent.music
+please play music,intent.music
+please play song,intent.music
+please play this one for me,intent.music
+could you play song for me,intent.music
+could you please play song for me,intent.music
+i would like to listen to song,intent.music
+i want to listen to music,intent.music
+play some beats for me,intent.music
+play some party music for me,intent.music
+play some soothing music for me,intent.music
+put on some music,intent.music
+put on song,intent.music
+play song by,intent.music
+can you play song by,intent.music
+can you please play song by,intent.music
+could you please play song for me,intent.music
+could you get song by,intent.music
+i would like to hear the song by,intent.music
+spotify song by,intent.music
+get some cool music beats on,intent.music
+please play some soothing songs,intent.music
+play some soofi songs,intent.music
+please play some romantic songs,intent.music
+play a mashup,intent.music
+play a mashup bollywood mix songs,intent.music
+play some bollywood songs,intent.music
+play some sad songs,intent.music
+play some happy songs,intent.music
+please play happy songs,intent.music
+please play sad songs,intent.music
+get some bollywood hits,intent.music
+play some bollywood hits,intent.music
+play hollywood hits,intent.music
+play english songs,intent.music
+play hindi songs,intent.music
+play a hindi playlist,intent.music
+play an english playlist,intent.music
+play playlist for me,intent.music
+please play good playlist for me,intent.music
+is there good songs in your music library,intent.music
+play some songs from your music library,intent.music
+please play some songs from your library,intent.music
+have you got some good songs,intent.music
+play mix songs from all genres,intent.music
+play old hindi songs,intent.music
+play old songs,intent.music
+play new songs,intent.music
+play new hindi songs,intent.music
+play old english songs,intent.music
+play new english songs,intent.music
+plat the music of,intent.music
+play best hits of,intent.music
+play hit songs of,intent.music
+i want to listen to music of,intent.music
+get me some old songs,intent.music
+get me some new songs,intent.music
+play relaxing music ,intent.music
+play chill music,intent.music
+play codding beats,intent.music
+get me some relaxing music,intent.music
+relax me with some music,intent.music
+play stress bursting music,intent.music
+play party music,intent.music
+hey start recording the session,intent.record_session
+record session,intent.record_session
+get this session recording,intent.record_session
+please record the session,intent.record_session
+start capturing the session,intent.record_session
+lets capture this session,intent.record_session
+please record this session,intent.record_session
+record this session,intent.record_session
+capture the screen,intent.record_session
+start capturing the screen,intent.record_session
+get a recording started for this session,intent.record_session
+start recording the session,intent.record_session
+i want this session recorded,intent.record_session
+capture everything on screen starting from now,intent.record_session
+lets start recording the screen,intent.record_session
+get this screen recorded,intent.record_session
+record the session on screen,intent.record_session
+record everything on this display,intent.record_session
+could you record the session for me,intent.record_session
+can you record the session for me,intent.record_session
+could you start a screen recording,intent.record_session
+start a screen recording,intent.record_session
+get a screen capture started,intent.record_session
+capture my screen for next few minutes,intent.record_session
+capture my screen for some time from now,intent.record_session
+record the screen for me,intent.record_session
+start recording in bandicam,intent.record_session
+bandicam my session,intent.record_session
+bandicam my screen,intent.record_session
+could you please bandicam my screen,intent.record_session
+save a recording for my screen,intent.record_session
+hey send an email to,intent.email
+send an email to,intent.email
+send email ,intent.email
+start writing an email,intent.email
+start writing email,intent.email
+send an emai to regarding,intent.email
+could you send an email ,intent.email
+could you please send an email,intent.email
+i want to send an email,intent.email
+email someone,intent.email
+write an email to,intent.email
+i would like to send an email to,intent.email
+a new email,intent.email
+communicate with via email,intent.email
+get started with writing an email,intent.email
+please send an email to ,intent.email
+send an email to stating ,intent.email
+an email to would be great,intent.email
+open gmail to send an email,intent.email
+send mail to,intent.email
+start writing a mail,intent.email
+draft a mail ,intent.email
+draft an email,intent.email
+raft mail,intent.email
+draft email,intent.email
+start drafting an email,intent.email
+start drafting a mail,intent.email
+send out an email to,intent.email
+send out a mail to,intent.email
+compose an email,intent.email
+compose email,intent.email
+compose mail,intent.email
+could you please drop an email,intent.email
+could you drop a mail,intent.email
+gmail to this person regarding,intent.email
+send a file via gmail,intent.email
+i would like to send a mail to,intent.email
+can you send an email ,intent.email
+what can you do about sending an email,intent.email
+do you have the capacity of sending an email,intent.email
+do you have the capacity of sending a email,intent.email
+send out a comunication mail to ,intent.email
+communicate this to via email,intent.email
+start writing down an email for me,intent.email
+send a email message to,intent.email
+increase the volume,intent.volume
+decrease the volume ,intent.volume
+mute the volume,intent.volume
+turn up the volume,intent.volume
+turn down the volume,intent.volume
+could you turn down the volume for me,intent.volume
+could you increase the volume for me,intent.volume
+lower the volume,intent.volume
+put the volume higher,intent.volume
+please increase the volume,intent.volume
+could you please change the volume,intent.volume
+dim the  volume,intent.volume
+increase the volume,intent.volume
+control the  volume,intent.volume
+decrease the volume,intent.volume
+cut down the  volume,intent.volume
+make it less audible,intent.volume
+make it louder,intent.volume
+could you please make it a little louder,intent.volume
+can you please increase the  volume for me,intent.volume
+i'd like to watch this movie on netflix,intent.streamMovies
+i would  like to watch this movie on netflix,intent.streamMovies
+play on netflix,intent.streamMovies
+please play on netflix,intent.streamMovies
+i want to watch on netflix,intent.streamMovies
+netfix this movie,intent.streamMovies
+i would like to watch this movie,intent.streamMovies
+search for movie on hotstar,intent.streamMovies
+search for movie on prime,intent.streamMovies
+search for movie on netflix,intent.streamMovies
+play movie on hotstar,intent.streamMovies
+play movie on prime,intent.streamMovies
+play movie on netflix,intent.streamMovies
+i want to watch a movie,intent.streamMovies
+could you please get movie from,intent.streamMovies
+put on movie on netflix,intent.streamMovies
+put on movie on hotstar,intent.streamMovies
+put on movie on prime,intent.streamMovies
+could you please play movie on netflix for me,intent.streamMovies
+could you please play movie on prime for me,intent.streamMovies
+could you please play movie on hotstar for me,intent.streamMovies
